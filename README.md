@@ -1,2 +1,2 @@
-# shell-script-snippets
-Code snippets I've used in shell scripts (usually Korn)
+# shell-scripts
+Shell scripts I use to automate portions of my job.
